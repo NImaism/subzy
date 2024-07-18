@@ -60,16 +60,6 @@
     ]
   },
   {
-    "Engine": "Akamai",
-    "Status": "Not Vulnerable",
-    "Fingerprint": "",
-    "Discussion": "https://github.com/EdOverflow/can-i-take-over-xyz/issues/13",
-    "Documentation": "Not available",
-    "False_Positive": [
-      ""
-    ]
-  },
-  {
     "Engine": "Anima",
     "Status": "Vulnerable",
     "Fingerprint": "The page you were looking for does not exist.",
